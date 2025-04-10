@@ -1,0 +1,3 @@
+requests
+flask
+internal-fake-package123  # does not exist on PyPI
