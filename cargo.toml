@@ -1,0 +1,6 @@
+[dependencies]
+serde = "1.0"
+internal-rust-pkg = "0.1.0"  # fake
+
+[dev-dependencies]
+fake-dev-dep = "0.1.0"
