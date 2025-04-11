@@ -1,3 +1,5 @@
 requests
+nonexistentpackage123456789
+someinternalpkg
 flask
-internal-fake-package123  # does not exist on PyPI
+
