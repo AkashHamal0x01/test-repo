@@ -1,0 +1,3 @@
+dependencies:
+  react: 18.0.0
+  internal-pnpm-pkg: 1.0.0 # fake
