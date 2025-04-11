@@ -1,0 +1,14 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire",
+        "state": { "branch": null, "revision": "xyz", "version": "5.4.0" }
+      },
+      {
+        "package": "internal-swift-lib"
+      }
+    ]
+  }
+}
