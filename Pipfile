@@ -1,0 +1,6 @@
+[packages]
+flask = "*"
+internal-python-lib = "*"  # fake
+
+[dev-packages]
+pytest = "*"
